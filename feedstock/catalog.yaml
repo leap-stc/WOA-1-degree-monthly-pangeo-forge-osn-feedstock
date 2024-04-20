@@ -1,0 +1,11 @@
+# All the information important to cataloging.
+"ncviewjs:meta_yaml_url": "https://github.com/pangeo-forge/WOA_1degree_monthly-feedstock/blob/main/feedstock/meta.yaml"
+tags:
+  - zarr
+  - pangeo-forge
+  - open-storage-network
+  - osn
+stores:
+  - id: woa18-1deg-monthly
+    name: woa18-1deg-monthly
+    url: "https://ncsa.osn.xsede.org/Pangeo/pangeo-forge/WOA_1degree_monthly-feedstock/woa18-1deg-monthly.zarr"
